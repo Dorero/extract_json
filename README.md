@@ -1,4 +1,4 @@
-### This program allows you to extract json from json. The output is the path to the json file and the keys by which the values ​​will be retrieved.
+### This program allows you to extract json from json. At the input, the first argument should be the path to the json file, the remaining arguments should be the keys in this json file. The output will be new json.
 
 #### Use like this 
 `./extract_json path/to/file.json first_key second_key`
