@@ -1,0 +1,9 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "email": "john.doe@example.com",
+    "phones": ["123-456-7890", "987-654-3210"],
+    "product": {
+        "title": "qwe"
+    }
+}
